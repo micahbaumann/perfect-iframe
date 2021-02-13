@@ -2,3 +2,4 @@
 /examples export-ignore
 /.gitignore export-ignore
 / README.md export-ignore
+/ SECURITY.md export-ignore
