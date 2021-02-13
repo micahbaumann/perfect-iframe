@@ -6,3 +6,6 @@ Making iframes responsive is one of the hardest parts of makeing a responsive we
 ## Features
  * One size fits all solution for making iframes responsive.
  * Add custom styles simply by putting `data-style="(your custom CSS)"` in the iframe's attributes.
+
+## Requirements
+In order for Perfect Iframe to work, you need [jQuery](https://jquery.com/)
