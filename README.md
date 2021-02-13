@@ -77,3 +77,18 @@ To load Perfect Iframe download Perfect Iframe, unzip the folder, and insert `<s
   </body>
 </html>
 ```
+## Simple Example
+Here is a simple example using Perfect Iframe for a YouTube video:
+```HTML
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Perfect Iframe Example</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  </head>
+  <body>
+    <iframe width="900" height="506" src="https://www.youtube.com/embed/ScMzIvxBSi4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <script src="(PATH TO FOLDER)/perfect-iframe/perfectiframe.js"></script>
+  </body>
+</html>
+```
