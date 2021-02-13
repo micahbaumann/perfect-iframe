@@ -117,4 +117,4 @@ This software is distributed under the LGPL 3.0 license. For more information, r
 ## Contributing
 Currently, Perfect Iframe is a privately maintained project. If you find any bugs or have any suggestions, please submit them to the [issue tracker](https://github.com/micahbaumann/perfect-iframe/issues).
 ## Issues
-If you find any bugs, please report them to the [issue tracker](https://github.com/micahbaumann/perfect-iframe/issues). If you find a major security vulnerability, please **DO NOT** use the issue tracker. See the [SECURITY](https://github.com/micahbaumann/perfect-iframe/blob/main/SECURITY.md) file for more information.
+If you find any bugs, please report them to the [issue tracker](https://github.com/micahbaumann/perfect-iframe/issues). If you find a major security vulnerability, please **DO NOT** use the issue tracker to report them. See the [SECURITY](https://github.com/micahbaumann/perfect-iframe/blob/main/SECURITY.md) file for more information.
