@@ -73,7 +73,7 @@ To load Perfect Iframe download Perfect Iframe, unzip the folder, and insert `<s
   </head>
   <body>
     [your code]...
-    <script src="(PATH TO FOLDER)/perfect-iframe/perfectiframe.js"></script>
+    <script src="(PATH TO FOLDER)/perfect-iframe-main/perfectiframe.js"></script>
   </body>
 </html>
 ```
@@ -89,7 +89,7 @@ Here is a simple example using Perfect Iframe for a YouTube video:
   </head>
   <body>
     <iframe width="900" height="506" src="https://www.youtube.com/embed/ScMzIvxBSi4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    <script src="(PATH TO FOLDER)/perfect-iframe/perfectiframe.js"></script>
+    <script src="(PATH TO FOLDER)/perfect-iframe-main/perfectiframe.js"></script>
   </body>
 </html>
 ```
@@ -107,7 +107,7 @@ Here is a another simple example using Perfect Iframe for a regular website `<if
   </head>
   <body>
     <iframe width="900" height="506" src="(WEBSITE URL)"></iframe>
-    <script src="(PATH TO FOLDER)/perfect-iframe/perfectiframe.js"></script>
+    <script src="(PATH TO FOLDER)/perfect-iframe-main/perfectiframe.js"></script>
   </body>
 </html>
 ```
