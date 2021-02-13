@@ -9,13 +9,52 @@ Making `<iframe>`s responsive is one of the hardest parts of makeing a responsiv
 
 ## Requirements
 In order for Perfect Iframe to work, you need to have [jQuery](https://jquery.com/) loaded in the page. If you do not already have jQuery in your project, you can include it by downloading it from [jquery.com/download](https://jquery.com/download "Download") or by using the CDN and linking it in your HTML file (see example).
-
+### Downloaded:
 ```HTML
 <!DOCTYPE html>
 <html>
   <head>
     <title>Page Title</title>
     <script src="(path to file)/jquery-3.5.1.min.js"></script>
+  </head>
+  <body>
+
+  </body>
+</html>
+```
+### CDN:
+```HTML
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Page Title</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  </head>
+  <body>
+
+  </body>
+</html>
+```
+### OR:
+```HTML
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Page Title</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script>
+  </head>
+  <body>
+
+  </body>
+</html>
+```
+### OR:
+```HTML
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Page Title</title>
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
   </head>
   <body>
 
