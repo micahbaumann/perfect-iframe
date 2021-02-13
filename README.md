@@ -116,3 +116,5 @@ Here is a another simple example using Perfect Iframe for a regular website `<if
 This software is distributed under the LGPL 3.0 license. For more information, read the [LICENSE](https://github.com/micahbaumann/perfect-iframe/blob/main/LICENSE) file. In other words, you may use this as you want, just please be respectful and give credit where it is due (this is not legal advice).
 ## Contributing
 Currently, Perfect Iframe is a privately maintained project. If you have found any bugs or have any suggestions, please submit them to the [issue tracker](https://github.com/micahbaumann/perfect-iframe/issues).
+## Issues
+If you have found any bugs, please report them to the [issue tracker](https://github.com/micahbaumann/perfect-iframe/issues).
