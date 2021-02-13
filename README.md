@@ -61,3 +61,5 @@ In order for Perfect Iframe to work, you need to have [jQuery](https://jquery.co
   </body>
 </html>
 ```
+# Loading
+To load Perfect Iframe include 
