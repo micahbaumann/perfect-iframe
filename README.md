@@ -15,7 +15,7 @@ In order for Perfect Iframe to work, you need to have [jQuery](https://jquery.co
 <html>
   <head>
     <title>Page Title</title>
-    <script src="(path to file)/jquery-3.5.1.min.js"></script>
+    <script src="(PATH TO FILE)/jquery-3.5.1.min.js"></script>
   </head>
   <body>
 
@@ -61,5 +61,19 @@ In order for Perfect Iframe to work, you need to have [jQuery](https://jquery.co
   </body>
 </html>
 ```
-# Loading
-To load Perfect Iframe include 
+## Loading
+To load Perfect Iframe download Perfect Iframe, unzip the folder, and insert `<script src="(PATH TO FOLDER)/perfect-iframe/perfectiframe.js"></script>` at the bottom of your code (see example).
+### Load Perfect Iframe:
+```HTML
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Page Title</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  </head>
+  <body>
+    [your code]...
+    <script src="(PATH TO FOLDER)/perfect-iframe/perfectiframe.js"></script>
+  </body>
+</html>
+```
