@@ -112,6 +112,8 @@ Here is a another simple example using Perfect Iframe for a regular website `<if
 ```
 #### Output
 ![Output](https://github.com/micahbaumann/perfect-iframe/blob/main/examples/images/VID_20210212_234257.gif?raw=true)
+## More Instructions
+For more detailed instructions on how to use Perfect Iframe, visit the [GUIDES](https://github.com/micahbaumann/perfect-iframe/blob/main/GUIDES.md) page.
 ## License
 This software is distributed under the LGPL 3.0 license. For more information, read the [LICENSE](https://github.com/micahbaumann/perfect-iframe/blob/main/LICENSE) file. In other words, you may use this as you want, just please be respectful and give credit where it is due (this is not legal advice).
 ## Contributing
