@@ -1,2 +1,2 @@
 # Complete Guide
-This page is under construction. :(
+This page is under construction.
