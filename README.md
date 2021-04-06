@@ -62,17 +62,17 @@ In order for Perfect Iframe to work, you need to have [jQuery](https://jquery.co
 </html>
 ```
 ## Loading
-To load Perfect Iframe download Perfect Iframe, unzip the folder, and insert `<script src="(PATH TO FOLDER)/perfect-iframe/perfectiframe.js"></script>` at the bottom of your code (see example).
+To load Perfect Iframe download Perfect Iframe, unzip the folder, and insert `<script src="(PATH TO FOLDER)/perfect-iframe/perfectiframe.js"></script>` int the header tags of your code (see example). Make sure the Perfect iframe tag is placed **after** the Jquery tag.
 ```HTML
 <!DOCTYPE html>
 <html>
   <head>
     <title>Page Title</title>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="(PATH TO FOLDER)/perfect-iframe-main/perfectiframe.js"></script>
   </head>
   <body>
     [your code]...
-    <script src="(PATH TO FOLDER)/perfect-iframe-main/perfectiframe.js"></script>
   </body>
 </html>
 ```
@@ -85,10 +85,10 @@ Here is a simple example using Perfect Iframe for a YouTube video:
   <head>
     <title>Perfect Iframe Example</title>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="(PATH TO FOLDER)/perfect-iframe-main/perfectiframe.js"></script>
   </head>
   <body>
     <iframe width="900" height="506" src="https://www.youtube.com/embed/ScMzIvxBSi4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    <script src="(PATH TO FOLDER)/perfect-iframe-main/perfectiframe.js"></script>
   </body>
 </html>
 ```
@@ -103,10 +103,10 @@ Here is a another simple example using Perfect Iframe for a regular website `<if
   <head>
     <title>Perfect Iframe Example</title>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="(PATH TO FOLDER)/perfect-iframe-main/perfectiframe.js"></script>
   </head>
   <body>
     <iframe width="900" height="506" src="(WEBSITE URL)"></iframe>
-    <script src="(PATH TO FOLDER)/perfect-iframe-main/perfectiframe.js"></script>
   </body>
 </html>
 ```
