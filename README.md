@@ -62,7 +62,7 @@ In order for Perfect Iframe to work, you need to have [jQuery](https://jquery.co
 </html>
 ```
 ## Loading
-To load Perfect Iframe download Perfect Iframe, unzip the folder, and insert `<script src="(PATH TO FOLDER)/perfect-iframe/perfectiframe.js"></script>` int the header tags of your code (see example). Make sure the Perfect iframe tag is placed **after** the Jquery tag.
+To load Perfect Iframe download Perfect Iframe, unzip the folder, and insert `<script src="(PATH TO FOLDER)/perfect-iframe/perfectiframe.js"></script>` int the header tags of your code (see example). Make sure the Perfect iframe tag is placed **after** the jQuery tag.
 ```HTML
 <!DOCTYPE html>
 <html>
