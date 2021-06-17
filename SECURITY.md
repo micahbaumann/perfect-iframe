@@ -10,4 +10,4 @@ Currently, version 1.0 is the most recent and up to date version of Perfect Ifra
 
 ## Reporting a Vulnerability
 
-If you do find a security vulnerability, please **DO NOT** report it using the Issue Tracker. Please report it privately to us.
+If you do find a security vulnerability, please **DO NOT** report it using the [issue tracker](https://github.com/micahbaumann/perfect-iframe/issues). Please report it privately to us.
